@@ -42,8 +42,7 @@ public class Main {
         //auto1.frenarHastaDetener();
 */
 
-
-
+//EDITADO POR CRISTHIAN DENIS ZAÑA RAMIREZ
 
     }
 }
